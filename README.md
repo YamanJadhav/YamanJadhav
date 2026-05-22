@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YamanJadhav
-- 👀 I’m interested in software development
+- 👀 I’m a java developer
 - 🌱 I’m currently learning spring boot have command on
-  html, css, javascript
 -  I’m looking for internship to level up my skills
 and understand how things in corporate world works
 - 📫 How to reach me : yamanjadhav50@gmail.com
